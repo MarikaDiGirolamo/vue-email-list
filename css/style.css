@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h5{
+    padding: 1rem;
+}
+
+
+.btn{
+    margin: 1rem;
+    background-color: purple;
+    color: whitesmoke;
+}
+
+li{
+    list-style: none;
+}
